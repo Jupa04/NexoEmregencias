@@ -1,0 +1,629 @@
+{
+  "ZONAS": [
+    {
+      "id": 4,
+      "n": "Vereda Paitó",
+      "m": "Istmina",
+      "nivel": "Crítico",
+      "hab": 900,
+      "pob": 78.5,
+      "acc": true,
+      "lat": 5.12,
+      "lon": -76.66,
+      "idx": 80.35,
+      "est": [
+        "Planta de Agua Paitó, colapsada"
+      ],
+      "sol": "Auxilio atendido: palas y botiquines"
+    },
+    {
+      "id": 2,
+      "n": "Vereda Tutunendo",
+      "m": "Quibdó",
+      "nivel": "Crítico",
+      "hab": 1350,
+      "pob": 72.1,
+      "acc": true,
+      "lat": 5.76,
+      "lon": -76.54,
+      "idx": 79.33,
+      "est": [
+        "Puesto de Salud Tutunendo, colapsado"
+      ],
+      "sol": "3.000 L de agua sin atender"
+    },
+    {
+      "id": 1,
+      "n": "Comuna 1 Kennedy",
+      "m": "Quibdó",
+      "nivel": "Crítico",
+      "hab": 4200,
+      "pob": 68.4,
+      "acc": false,
+      "lat": 5.7,
+      "lon": -76.65,
+      "idx": 68.92,
+      "est": [
+        "Hospital San Francisco de Asís, afectado",
+        "I. E. Carrasquilla, colapsada"
+      ],
+      "sol": "Sin solicitudes abiertas"
+    },
+    {
+      "id": 10,
+      "n": "Vereda La Moralia",
+      "m": "Tuluá",
+      "nivel": "Alto",
+      "hab": 850,
+      "pob": 45.9,
+      "acc": true,
+      "lat": 4,
+      "lon": -76.12,
+      "idx": 60.47,
+      "est": [
+        "Escuela Rural La Moralia, afectada"
+      ],
+      "sol": "2.500 L de agua sin atender"
+    },
+    {
+      "id": 8,
+      "n": "Vereda La Cabaña",
+      "m": "Manizales",
+      "nivel": "Alto",
+      "hab": 700,
+      "pob": 41.8,
+      "acc": true,
+      "lat": 5.05,
+      "lon": -75.47,
+      "idx": 58.94,
+      "est": [
+        "Subestación La Cabaña, afectada"
+      ],
+      "sol": "Solicitud de linternas cancelada"
+    },
+    {
+      "id": 5,
+      "n": "Comuna 12 Bajamar",
+      "m": "Buenaventura",
+      "nivel": "Alto",
+      "hab": 5200,
+      "pob": 55.2,
+      "acc": false,
+      "lat": 3.88,
+      "lon": -77.03,
+      "idx": 56.96,
+      "est": [
+        "Bodega Química Portuaria, colapsada",
+        "Estación de Servicio El Puerto, afectada"
+      ],
+      "sol": "8.000 L de agua sin atender"
+    },
+    {
+      "id": 3,
+      "n": "Comuna 2 San Agustín",
+      "m": "Istmina",
+      "nivel": "Alto",
+      "hab": 2100,
+      "pob": 70.3,
+      "acc": false,
+      "lat": 5.16,
+      "lon": -76.69,
+      "idx": 55.29,
+      "est": [
+        "Hogar Geriátrico San José, afectado"
+      ],
+      "sol": "Medicamentos en camino al albergue"
+    },
+    {
+      "id": 6,
+      "n": "Comuna 20 Siloé",
+      "m": "Cali",
+      "nivel": "Medio",
+      "hab": 3800,
+      "pob": 38.6,
+      "acc": false,
+      "lat": 3.425,
+      "lon": -76.555,
+      "idx": 39.18,
+      "est": [
+        "Jardín Infantil Mis Pequeños, afectado"
+      ],
+      "sol": "Frazadas entregadas"
+    },
+    {
+      "id": 7,
+      "n": "Comuna Villasantana",
+      "m": "Pereira",
+      "nivel": "Medio",
+      "hab": 2600,
+      "pob": 30.1,
+      "acc": false,
+      "lat": 4.81,
+      "lon": -75.66,
+      "idx": 34.23,
+      "est": [],
+      "sol": "Sin solicitudes abiertas"
+    },
+    {
+      "id": 9,
+      "n": "Comuna 6 El Bosque",
+      "m": "Armenia",
+      "nivel": "Medio",
+      "hab": 1900,
+      "pob": 28.7,
+      "acc": false,
+      "lat": 4.54,
+      "lon": -75.69,
+      "idx": 32.41,
+      "est": [],
+      "sol": "Sin solicitudes abiertas"
+    }
+  ],
+  "ALBERGUES": [
+    [
+      "Albergue Escuela Tutunendo",
+      "Quibdó",
+      "Luz Dary Mosquera",
+      4,
+      4,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Parroquia San Pablo",
+      "Istmina",
+      "Yesid Córdoba",
+      120,
+      2,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Coliseo Municipal de Quibdó",
+      "Quibdó",
+      "Luz Dary Mosquera",
+      350,
+      2,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Coliseo El Cristal",
+      "Buenaventura",
+      "Ana Milena Valencia",
+      400,
+      2,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Polideportivo Siloé",
+      "Cali",
+      "Gloria Patricia Ospina",
+      200,
+      0,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Coliseo Villasantana",
+      "Pereira",
+      "Ana Milena Valencia",
+      150,
+      0,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Escuela La Cabaña",
+      "Manizales",
+      "Yesid Córdoba",
+      60,
+      0,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Coliseo del Café",
+      "Armenia",
+      "Gloria Patricia Ospina",
+      180,
+      0,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Salón Comunal La Moralia",
+      "Tuluá",
+      "Gloria Patricia Ospina",
+      40,
+      0,
+      "ACTIVO"
+    ],
+    [
+      "Albergue Escuela El Bosque",
+      "Armenia",
+      "Yesid Córdoba",
+      100,
+      0,
+      "CERRADO"
+    ]
+  ],
+  "TRIPS": [
+    {
+      "id": 10,
+      "st": 0,
+      "from": "Puerto de Buenaventura",
+      "to": "Albergue Coliseo El Cristal",
+      "what": "80 kg de leche en polvo, lotes 10 y 11",
+      "veh": "DCC318"
+    },
+    {
+      "id": 7,
+      "st": 1,
+      "from": "Puerto de Buenaventura",
+      "to": "Albergue Coliseo El Cristal",
+      "what": "250 kits de alimentos y 120 kg de leche",
+      "veh": "ARC640, lancha"
+    },
+    {
+      "id": 6,
+      "st": 1,
+      "from": "Bodega UNGRD Quibdó",
+      "to": "Albergue Parroquia San Pablo",
+      "what": "60 cajas de acetaminofén",
+      "veh": "UNG105"
+    }
+  ],
+  "EXP": [
+    [
+      "Agua potable en bolsa",
+      "Aeropuerto El Caraño",
+      "600 L",
+      "2026-12-10"
+    ],
+    [
+      "Agua potable en bolsa",
+      "Centro de Acopio Istmina",
+      "1.500 L",
+      "2026-12-15"
+    ],
+    [
+      "Kit de alimentos familiar",
+      "Aeropuerto El Caraño",
+      "400 cajas",
+      "2027-01-20"
+    ],
+    [
+      "Kit de alimentos familiar",
+      "Puerto de Buenaventura",
+      "350 cajas",
+      "2027-02-15"
+    ],
+    [
+      "Leche en polvo",
+      "Puerto de Buenaventura",
+      "280 kg",
+      "2027-03-30"
+    ]
+  ],
+  "SOLS": [
+    [
+      6,
+      "Comuna 12 Bajamar",
+      "Insumos",
+      "Urgente",
+      "8 oct.",
+      "REGISTRADA"
+    ],
+    [
+      7,
+      "Vereda Tutunendo",
+      "Insumos",
+      "Alta",
+      "8 oct.",
+      "REGISTRADA"
+    ],
+    [
+      10,
+      "Vereda La Moralia",
+      "Insumos",
+      "Alta",
+      "9 oct.",
+      "REGISTRADA"
+    ],
+    [
+      4,
+      "Albergue Parroquia San Pablo",
+      "Insumos",
+      "Alta",
+      "7 oct.",
+      "ASIGNADA"
+    ],
+    [
+      5,
+      "Albergue Coliseo El Cristal",
+      "Insumos",
+      "Alta",
+      "7 oct.",
+      "ASIGNADA"
+    ],
+    [
+      1,
+      "Albergue Coliseo Municipal de Quibdó",
+      "Insumos",
+      "Urgente",
+      "6 oct.",
+      "ATENDIDA"
+    ],
+    [
+      2,
+      "Albergue Escuela Tutunendo",
+      "Insumos",
+      "Alta",
+      "6 oct.",
+      "ATENDIDA"
+    ],
+    [
+      3,
+      "Vereda Paitó",
+      "Auxilio",
+      "Urgente",
+      "6 oct.",
+      "ATENDIDA"
+    ],
+    [
+      8,
+      "Albergue Polideportivo Siloé",
+      "Insumos",
+      "Media",
+      "8 oct.",
+      "ATENDIDA"
+    ],
+    [
+      9,
+      "Vereda La Cabaña",
+      "Auxilio",
+      "Media",
+      "9 oct.",
+      "CANCELADA"
+    ]
+  ],
+  "INV": [
+    [
+      "Bodega UNGRD Quibdó",
+      "Acetaminofén 500 mg",
+      "CAJA",
+      200,
+      140
+    ],
+    [
+      "Bodega UNGRD Quibdó",
+      "Botiquín de primeros auxilios",
+      "UNIDAD",
+      120,
+      110
+    ],
+    [
+      "Bodega UNGRD Quibdó",
+      "Sales de rehidratación oral",
+      "CAJA",
+      100,
+      100
+    ],
+    [
+      "Aeropuerto El Caraño",
+      "Agua potable en bolsa",
+      "LITRO",
+      3800,
+      600
+    ],
+    [
+      "Aeropuerto El Caraño",
+      "Frazada térmica",
+      "UNIDAD",
+      600,
+      500
+    ],
+    [
+      "Aeropuerto El Caraño",
+      "Kit de alimentos familiar",
+      "CAJA",
+      400,
+      400
+    ],
+    [
+      "Centro de Acopio Armenia",
+      "Linterna recargable",
+      "UNIDAD",
+      150,
+      150
+    ],
+    [
+      "Centro de Acopio Expofuturo",
+      "Pala de rescate",
+      "UNIDAD",
+      80,
+      60
+    ],
+    [
+      "Centro de Acopio Istmina",
+      "Agua potable en bolsa",
+      "LITRO",
+      1500,
+      1500
+    ],
+    [
+      "Puerto de Buenaventura",
+      "Kit de alimentos familiar",
+      "CAJA",
+      600,
+      350
+    ],
+    [
+      "Puerto de Buenaventura",
+      "Leche en polvo",
+      "KG",
+      480,
+      280
+    ]
+  ],
+  "DESP": [
+    [
+      1,
+      "Aeropuerto El Caraño",
+      "OKT482",
+      "Wilmer Palacios Moreno",
+      2000,
+      "ENTREGADO"
+    ],
+    [
+      2,
+      "Aeropuerto El Caraño",
+      "EJC3301",
+      "Wilmer Palacios Moreno",
+      800,
+      "ENTREGADO"
+    ],
+    [
+      3,
+      "Aeropuerto El Caraño",
+      "FAC1005",
+      "Edwin Mena Hurtado",
+      400,
+      "ENTREGADO"
+    ],
+    [
+      4,
+      "Centro de Acopio Expofuturo",
+      "FAC1005",
+      "Edwin Mena Hurtado",
+      20,
+      "ENTREGADO"
+    ],
+    [
+      5,
+      "Bodega UNGRD Quibdó",
+      "UNG105",
+      "Kevin Stiven Rentería",
+      10,
+      "ENTREGADO"
+    ],
+    [
+      6,
+      "Bodega UNGRD Quibdó",
+      "UNG105",
+      "Edwin Mena Hurtado",
+      60,
+      "EN_TRANSITO"
+    ],
+    [
+      7,
+      "Puerto de Buenaventura",
+      "ARC640",
+      "Wilmer Palacios Moreno",
+      370,
+      "EN_TRANSITO"
+    ],
+    [
+      8,
+      "Aeropuerto El Caraño",
+      "CRC221",
+      "Edwin Mena Hurtado",
+      100,
+      "ENTREGADO"
+    ],
+    [
+      9,
+      "Centro de Acopio Armenia",
+      "SPQ447",
+      "Edwin Mena Hurtado",
+      30,
+      "CANCELADO"
+    ],
+    [
+      10,
+      "Puerto de Buenaventura",
+      "DCC318",
+      "Wilmer Palacios Moreno",
+      80,
+      "PENDIENTE"
+    ]
+  ],
+  "SQUADS": [
+    [
+      "USAR-CHOCO-01",
+      "Búsqueda y rescate en la vereda Paitó",
+      [
+        [
+          "Julián David Perea",
+          "Rescate en estructuras, DNBC",
+          "Hoy 6:00 a 18:00"
+        ]
+      ]
+    ],
+    [
+      "ALB-QUIBDO-01",
+      "Salud y apoyo psicosocial en el coliseo",
+      [
+        [
+          "Leidy Johana Caicedo",
+          "Medicina de urgencias, MINSALUD",
+          "Hoy 7:00 a 19:00"
+        ],
+        [
+          "Kevin Stiven Rentería",
+          "Paramédico, CRC",
+          "Hoy 7:00 a 19:00"
+        ]
+      ]
+    ],
+    [
+      "EVAL-MANIZ-01",
+      "Evaluación estructural de viviendas",
+      [
+        [
+          "Natalia Ocampo",
+          "Evaluación estructural, UNGRD",
+          "Hoy 8:00 a 16:00"
+        ]
+      ]
+    ],
+    [
+      "ALB-BUENAV-01",
+      "Salud en el albergue El Cristal",
+      [
+        [
+          "Kevin Stiven Rentería",
+          "Paramédico, CRC",
+          "Hoy 19:00 a mañana 7:00"
+        ]
+      ]
+    ],
+    [
+      "USAR-BUENAV-01",
+      "Rescate y remoción de escombros en Bajamar",
+      [
+        [
+          "Julián David Perea",
+          "Rescate en estructuras, DNBC",
+          "Mañana 6:00 a 18:00"
+        ]
+      ]
+    ],
+    [
+      "MED-TULUA-01",
+      "Atención médica en la vereda La Moralia",
+      [
+        [
+          "Leidy Johana Caicedo",
+          "Medicina de urgencias, MINSALUD",
+          "Mañana 7:00 a 19:00"
+        ]
+      ]
+    ],
+    [
+      "ALB-TUTUNENDO-01",
+      "Salud a las familias del albergue",
+      [
+        [
+          "Natalia Ocampo",
+          "Evaluación estructural, UNGRD",
+          "Mañana 7:00 a 19:00"
+        ]
+      ]
+    ]
+  ]
+}
